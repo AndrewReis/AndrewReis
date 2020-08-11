@@ -4,9 +4,8 @@
 # Andrew Reis
 
 ## Olá pessoal 👋
-Trabalho à mais de 5 anos com atendimento ao cliente no comercio farmacêutico, Numa empresa que me abriu muitas portas e ajudou a me desenvolver. Hoje me sinto muito mais confiante e comunicativo. Entretanto, após esses anos descobri minha verdadeira paixão e **Propósito**, o qual é
-resolver problemas e agregar valor na vida das pessoas utilizando a programação.
-**No caminho para me tornar um FullStack Developer** :computer:
+Trabalho à mais de 5 anos com atendimento ao cliente no comercio farmacêutico, numa empresa que me abriu muitas portas e ajudou a me desenvolver. Hoje me sinto muito mais confiante e comunicativo. Entretanto, após esses anos descobri minha verdadeira paixão e **Propósito**, o qual é
+resolver problemas e agregar valor na vida das pessoas utilizando a programação. Faço faculdade de ADS e aluno da Rocketseat no **Bootcamp Go Stack**, sou apaixonado por tecnologia e estou **no caminho para me tornar um FullStack Developer** :computer:
 
  :rocket:  &nbsp;**Não Precisa acelerar, Basta não parar!**
  <br/> :purple_heart: &nbsp; Buscando ser 1% melhor a cada dia.
