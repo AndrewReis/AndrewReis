@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/AndrewReis/assets/blob/master/banner.svg">
 
 
 # Andrew Reis
