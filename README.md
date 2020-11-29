@@ -1,15 +1,34 @@
-<img width="auto" src="https://github.com/AndrewReis/assets/blob/master/banner.svg">
 
+## Hello, I’m Andrew Reis🤙
 
-# Andrew Reis
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-reis/)](https://www.linkedin.com/in/andrew-reis/) 
 
-## Olá pessoal 👋
-Trabalho à mais de 5 anos com atendimento ao cliente no comercio farmacêutico, numa empresa que me abriu muitas portas e ajudou a me desenvolver. Hoje me sinto muito mais confiante e comunicativo. Entretanto, após esses anos descobri minha verdadeira paixão e **Propósito**, o qual é
-resolver problemas e agregar valor na vida das pessoas utilizando a programação. Faço faculdade de ADS e aluno da Rocketseat no **Bootcamp Go Stack**, sou apaixonado por tecnologia e estou **no caminho para me tornar um FullStack Developer** :computer:
+I work for over 5 years with customer service in the pharmaceutical trade, in a company that opened many doors for me and helped me to develop. Today I feel much more confident and communicative. However, after these years I discovered my true passion and Purpose, which is to solve problems and add value to people's lives using programming. I go to ADS college and Rocketseat student at Bootcamp Go Stack, I'm passionate about technology and I'm on my way to becoming a FullStack Developer.
 
- :rocket:  &nbsp;**Não Precisa acelerar, Basta não parar!**
- <br/> :purple_heart: &nbsp; Buscando ser 1% melhor a cada dia.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games: UFC3 e Dark Souls, seriados na Netflix/Amazon e um bom **café**.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndrewReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://linkedin.com/in/andrew-reis) 
+💬⠀Favorite phrase: Sucesso é fazer **duas mil vezes** duas coisas. E não **duas mil coisas** duas vezes. "Joel Jota"
 
+```js
+const importantLinks = {
+   👨🏻‍💻 My Linkedin: 'https://www.linkedin.com/in/andrew-reis/',
+   👋 Email: 'andrew-reiis@outlook.com',
+}
+```
+
+**Languages and Tools 🚀**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewReis&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="andrewreis" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/AndrewReis" target="_blank"><img alt="andrewreis" src="https://badges.pufler.dev/visits/AndrewReis/AndrewReis?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
