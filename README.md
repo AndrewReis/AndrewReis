@@ -5,7 +5,7 @@
 
 I work for over 5 years with customer service in the pharmaceutical trade, in a company that opened many doors for me and helped me to develop. Today I feel much more confident and communicative. However, after these years I discovered my true passion and Purpose, which is to solve problems and add value to people's lives using programming. I go to ADS college and Rocketseat student at Bootcamp Go Stack, I'm passionate about technology and I'm on my way to becoming a FullStack Developer.
 
-💬⠀Favorite phrase: Sucesso é fazer **duas mil vezes** duas coisas. E não **duas mil coisas** duas vezes. "Joel Jota"
+💬⠀Favorite phrase: "O trabalho devolve".
 
 ```js
 const importantLinks = {
