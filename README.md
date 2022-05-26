@@ -8,7 +8,7 @@ I am a person who loves to program and can spend hours in front of the computer 
 
 ```js
 const importantLinks = {
-   👨🏻‍💻 My Linkedin: 'https://www.linkedin.com/in/andrew-reis/',
+   👨🏻‍💻 Linkedin: 'https://www.linkedin.com/in/andrew-reis/',
    👋 Email: 'andrew-reiis@outlook.com'
 }
 ```
