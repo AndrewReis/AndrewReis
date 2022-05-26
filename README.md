@@ -5,8 +5,6 @@
 
 I am a person who loves to program and can spend hours in front of the computer without watching the time go by. I learned a lot since 2018 when I started my journey in this world of technology, since then I have not stopped, I sought to perfect my technical skills with college, online courses, lectures and books. Last year my focus was on studying javascript and all its fundamentals and ecosystem.
 
-💬⠀Favorite phrase: "The work returns.
-/O trabalho devolve".
 
 ```js
 const importantLinks = {
