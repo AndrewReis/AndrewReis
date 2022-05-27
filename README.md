@@ -1,10 +1,11 @@
 
-## Hello, I’m Andrew Reis🤙
+<p align="center">
+ <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="hello world code HTML 5" width="100%">
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-reis/)](https://www.linkedin.com/in/andrew-reis/) 
 
-I am a person who loves to program and can spend hours in front of the computer without watching the time go by. I learned a lot since 2018 when I started my journey in this world of technology, since then I have not stopped, I sought to perfect my technical skills with college, online courses, lectures and books. Last year my focus was on studying javascript and all its fundamentals and ecosystem.
-
+Sou uma pessoa que adora programar e pode passar horas na frente do computador sem ver o tempo passar. Comecei minha jornada como programador em 2018. Desde então não parei, busquei aperfeiçoar minhas habilidades técnicas. Sou estudante de Análise e Des. de Sistemas, fiz muitos cursos online, e fui buscar mais conhecimento em livros relacionados a tecnologia. Meu foco é no ecossistema Javascript (nodejs, Vuejs, ReactJs, HTML5 e CSS3).
 
 ```js
 const importantLinks = {
