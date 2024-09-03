@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-reis/)](https://www.linkedin.com/in/andrew-reis/) 
 
-Sou uma pessoa que adora programar e pode passar horas na frente do computador sem ver o tempo passar. Comecei minha jornada como programador em 2018. Desde então não parei, busquei aperfeiçoar minhas habilidades técnicas fazendo faculdade de Análise e Desenvolcimento de Sistemas, fiz muitos cursos online focados no ecossistema Javascript (Nodejs, Typescript, Vuejs, HTML5 e CSS3).
+Sou um entusiasta da programação, começando minha jornada em 2018. Tenho formação em Análise e Desenvolvimento de Sistemas e especializações em JavaScript, incluindo Node.js, TypeScript, e Vue.js. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
 ```js
 const importantLinks = {
